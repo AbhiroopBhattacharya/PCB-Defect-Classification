@@ -35,3 +35,5 @@ to classify the following defect types with reasonable accuracy:
 1. Spur
 2. Spurious Copper
 3. Short 
+
+The project has been based on the article Defect Classifier (https://towardsdatascience.com/building-an-end-to-end-deep-learning-defect-classifier-application-for-printed-circuit-board-pcb-6361b3a76232) and the reader is recommended to visit the page for further reference. 
